@@ -1,3 +1,28 @@
+# SmoothGulp
+Made for KINGS and QUEENS
+
+## HomePage
+![HomePage Image](https://github.com/tarunmanoharann/smoothgulp/blob/main/photos/Home.png)
+
+## LoginPage
+![LoginPage Image](https://github.com/tarunmanoharann/smoothgulp/blob/main/photos/Login.png)
+
+## RegisterPage
+![RegisterPage Image](https://github.com/tarunmanoharann/smoothgulp/blob/main/photos/Register.png)
+
+## ProductList
+![ProductList Image](https://github.com/tarunmanoharann/smoothgulp/blob/main/photos/Productlist.png)
+
+## AddToCart
+![ProductList Image](https://github.com/tarunmanoharann/smoothgulp/blob/main/photos/Cart.png)
+
+## Favourite
+![ProductList Image](https://github.com/tarunmanoharann/smoothgulp/blob/main/photos/Favourite.png)
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
