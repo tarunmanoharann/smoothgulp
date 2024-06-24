@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaXTwitter,FaFacebook,FaInstagram } from "react-icons/fa6";
+import { FaXTwitter, FaFacebook, FaInstagram } from "react-icons/fa6";
 import '../assets/css/footor.css';
 
 const Footer = () => {
@@ -13,16 +13,20 @@ const Footer = () => {
           <span>Terms & Conditions</span>
         </div>
       </div>
-    
-        <div className="social-link"> 
-         <span className='icons'><FaInstagram /></span> 
-         <span className='icons'><FaFacebook /></span> 
-         <span className='icons'><FaXTwitter /></span> 
-        </div>    
+      
+      <div className="social-links">
+        <a href="https://www.linkedin.com/in/tarun-manoharan/" target="_blank" rel="noopener noreferrer">
+          <span className='icons'><FaInstagram /></span>
+        </a>
+        <a href="https://www.linkedin.com/in/tarun-manoharan/" target="_blank" rel="noopener noreferrer">
+          <span className='icons'><FaFacebook /></span>
+        </a>
+        <a href="https://www.linkedin.com/in/tarun-manoharan/" target="_blank" rel="noopener noreferrer">
+          <span className='icons'><FaXTwitter /></span>
+        </a>
+      </div>
     </footer>
   );
-
-  
 };
 
 export default Footer;
