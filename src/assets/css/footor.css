@@ -63,9 +63,10 @@
   background-size: 80%;
   animation: animate 5.5s linear infinite;
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: rgba(255, 255, 255, 0);
+  /* text-fill-color: rgba(255, 255, 255, 0); */
 }
-
 @keyframes animate {
   0% {
     background-position: -500%;
