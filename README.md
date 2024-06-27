@@ -1,6 +1,8 @@
 # SmoothGulp
 Made for KINGS and QUEENS
 
+demo: [https://smoothgulp.vercel.app/]
+
 ## HomePage
 ![HomePage Image](https://github.com/tarunmanoharann/smoothgulp/blob/main/photos/Home.png)
 
